@@ -1,0 +1,32 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url('https://fonts.googleapis.com/css?family=Raleway:200');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+body{
+  background-color:#D5F5E3  ;
+  font-family: 'Amatic SC', cursive;
+  font-size:50px;
+
+}
+a{
+  font-size:20px;
+  text-decoration:none;
+  margin:20px;
+  font-family:raleway;
+  color:#95a5a6;
+
+}
+a:hover{
+  color: #3498db;
+  border-bottom-color: #3498db;
+}
+i{
+margin:10px;
+}
+nav{
+  display:flex;
+  flex-direction:row;
+  justify-content:flex-end;
+  background-color: #17202A;
+  border-radius:10px;
+
+}

@@ -1,1 +1,0 @@
-# Polygon-site-like-widget.
